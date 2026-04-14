@@ -1,5 +1,5 @@
 {
-  "minVersion": "1.0.0",
+  "minVersion": "2.0.0",
   "iosStoreUrl": "https://apps.apple.com/app/idYOUR_APP_ID",
   "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.wentian.dai.fleamarketsellersupportapp",
   "message": "セキュリティと安定性のため、最新版へのアップデートが必要です。"
