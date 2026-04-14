@@ -1,0 +1,1 @@
+# mercari-assistant-app-version
